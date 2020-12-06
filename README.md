@@ -17,7 +17,9 @@ COVID-19 Face Mask Detector in Python.
 ### Image
 
 `python model_image.py --image test_images/prof.png`
+
 `python model_image.py --image test_images/prof2.jpg`
+
 `python model_image.py --image test_images/prof3.jpg`
 
 ### Video
